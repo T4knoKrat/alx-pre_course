@@ -1,1 +1,1 @@
-My first readme
+Repo for git fundamentals
